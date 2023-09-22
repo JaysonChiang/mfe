@@ -1,5 +1,5 @@
 import { createApp } from 'vue';
-import Dashboard from './components/Dashboard.vue';
+import Dashboard from './components/Dashboard';
 
 // Mount function to start up the app
 const mount = (el) => {
